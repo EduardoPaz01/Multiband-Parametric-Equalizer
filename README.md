@@ -1,1 +1,1 @@
-# Multiband-Parametric-Equalizer
+# O projeto implementa um equalizador de áudio em tempo real, permitindo realçar graves (bass boost), médios e agudos conforme a preferência do usuário ou as limitações de um alto-falante pequeno, que reproduz mal os graves. Como aplicação acadêmica, integra processamento digital de sinais em hardware reconfigurável, abrangendo conversão A/D, filtragem IIR em ponto fixo, arquitetura de MAC serial e conversão D/A por delta-sigma, uma solução de baixo custo e sem latência perceptível, em comparação a processar o áudio por software.
