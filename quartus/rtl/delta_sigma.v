@@ -1,4 +1,4 @@
-module delta_sigma_dac #(
+module delta_sigma #(
     parameter WIDTH = 16
 )(
     input  wire                    clk,    // Clock gerado pela PLL (de preferência 12,288 MHz ou 24,576 MHz)
